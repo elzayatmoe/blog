@@ -1,0 +1,26 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "blogging and portfolio website",
+  "main": "Server.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node Server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elzayatmoe/blog.git"
+  },
+  "author": "Mo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elzayatmoe/blog/issues"
+  },
+  "homepage": "https://github.com/elzayatmoe/blog#readme",
+  "dependencies": {
+    "express": "latest"
+  }
+}
